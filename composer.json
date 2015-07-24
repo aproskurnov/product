@@ -1,0 +1,14 @@
+{
+    "name": "aproskurnov/product",
+    "description": "test package",
+    "type": "vcs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksey Proskurnov",
+            "email": "proskurn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

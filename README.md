@@ -1,2 +1,1 @@
-# product
-test laravel 5 package repository
+# Laravel 5 test product package
